@@ -1,8 +1,8 @@
 # Einstein-Desk
 기말고사 프로젝트인 그림판입니다.
-고쳐야 할 부분이 많습니다.
-구조 참고보다는, 어떤 매소드가 있는지 정도만 보시길 바랍니다.
 
-툴바 위에서 휠 굴리면 움직입니다.
+코드가 더럽습니다.
 
-분할 압축 했습니다!
+아래 이미지 클릭시 Youtube로 이동합니다.
+
+[![Error](http://img.youtube.com/vi/XW9zx2N-Sno/0.jpg)](http://www.youtube.com/watch?v=XW9zx2N-Sno)
